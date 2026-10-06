@@ -12,3 +12,6 @@ aos seus respectivos cartões e poderão ser adicionadas, editadas, excluídas, 
 reproduzidas. Já as avaliações permitirão registrar uma nota de 1 a 5 estrelas e um
 breve comentário sobre cada música. Todos os cadastros terão as operações de incluir,
 alterar, excluir e listar.
+
+## Tecnologias
+JSP, Gson, JSON e o servidor usado (Tomcat).
